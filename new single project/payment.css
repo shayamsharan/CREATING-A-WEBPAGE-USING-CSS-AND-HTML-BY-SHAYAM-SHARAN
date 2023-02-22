@@ -1,0 +1,34 @@
+form
+{
+border-radius: 10px;
+border-color: rgb(221, 163, 6);
+ width: fit-content;
+ margin-left: 500px; 
+ border-width: 10px;
+ border-style: ridge;
+}
+
+
+body
+{
+    background-color: gray;
+    background-image: url("C:\Users\shayam sharan\Desktop\new single project\payment.jpg.jpg");
+    font-family: Verdana;
+}
+
+h2
+{ text-align: center;
+ text-underline-position: auto;
+}
+
+h1{text-align: center;}
+
+form{
+    font-size: medium;
+    font-family: Verdana;
+}
+
+button{
+    font-size: medium;
+    font-family: Verdana;
+}

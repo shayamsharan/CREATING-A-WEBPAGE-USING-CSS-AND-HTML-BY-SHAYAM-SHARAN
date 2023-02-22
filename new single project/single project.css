@@ -1,0 +1,60 @@
+ul{
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+ul li{
+    margin-top: 20px;
+    padding: 5px 5px;
+    padding: 5px 5px;
+  }
+  
+  ul li a{
+    text-decoration: none;
+    padding: 5px 25px;
+    color: #ffffff;
+    font-size: 1.5em;
+    border: 1px solid #fff;
+    text-transform: uppercase;
+    transition: 0.3s ease;
+  }
+
+ul li a:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+.title h1{
+  color: #ffffff;
+  font-family:'Franklin Gothic Medium';
+  font-size: 5.5em;
+  padding-top: 5px;
+  padding-left: 140px;
+  text-align: center;
+}
+
+.button{
+  display: flex;
+  text-align: center;
+  padding-left: 675px;
+}
+
+.btn{
+  color: #fff;
+  font-size: 1.75em;
+  border: 1px solid #fff;
+  background-color: #df6901;
+  padding: 5px 15px;
+  border-radius: 50px;
+  transition: 0.3s ease-in;
+}
+
+.btn:hover{
+  background-color: #fff;
+  color: #FF7F50;
+  text-align: center;
+}
